@@ -12,7 +12,7 @@
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Noah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Noah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Noah-Pic" height="150" style="border-radius:50px;" src="https://imgur.com/u7ym5tx?width=676&height=676">
+  <img align="right" alt="Noah-Pic" height="150" style="border-radius:50px;" src="https://imgur.com/u7ym5tx.png?width=676&height=676">
 </div>
   
   ##
